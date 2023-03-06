@@ -12,5 +12,5 @@ export const store = configureStore({
         getDefaultMiddleware().concat(apiSlice.middleware),
     devTools: true
 })
-
+// api ready to deploy
 setupListeners(store.dispatch)

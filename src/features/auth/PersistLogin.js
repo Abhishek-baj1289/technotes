@@ -71,7 +71,7 @@ const PersistLogin = () => {
         console.log(isUninitialized)
         content = <Outlet />
     }
-
+//returned the content
     return content
 }
 export default PersistLogin

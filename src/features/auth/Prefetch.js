@@ -3,7 +3,7 @@ import { notesApiSlice } from '../notes/notesApiSlice'
 import { usersApiSlice } from '../users/usersApiSlice';
 import { useEffect } from 'react';
 import { Outlet } from 'react-router-dom';
-
+// prefetching the queries in the form of something idk
 const Prefetch = () => {
     useEffect(() => {
         console.log('subscribing')
