@@ -1,4 +1,4 @@
-# User Stories for techNotes
+# aim
 
 1. [ ] Replace current sticky note system
 2. [x] Add a public facing page with basic contact info 
